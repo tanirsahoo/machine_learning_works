@@ -1,0 +1,13 @@
+# Large dataset files
+*.csv
+*.tsv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Kaggle cache
+~/.cache/kagglehub/
